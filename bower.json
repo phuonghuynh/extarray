@@ -1,6 +1,6 @@
 {
   "name": "extarray",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "src/extarray.js",
   "authors": [
     "Phuong H <phuonghqh@gmail.com>"
