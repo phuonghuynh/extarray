@@ -6,7 +6,6 @@
     "Phuong H <phuonghqh@gmail.com>"
   ],
   "description": "Javascript Array extension",
-  "main": "extarray.js",
   "moduleType": [
     "node"
   ],
